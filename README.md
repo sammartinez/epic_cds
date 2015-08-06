@@ -1,6 +1,4 @@
-#Cars 2.0
-
-##### CD Love
+#CD LOVE
 
 #### By Sam Martinez & Alex Costa
 
